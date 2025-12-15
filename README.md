@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Jaydeep**
 
-<!--
-**Jaydeep-7/jaydeep-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Front-End Developer | Open-Source Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer exploring modern technologies and building cool projects. I enjoy learning new tools, improving code quality, and contributing to open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on personal portfolios and web apps.
+- 🌱 I’m learning advanced **React**, **Next.js**, and modern **TypeScript** patterns.
+- 🧠 I enjoy solving problems, building UIs, and improving user experiences.  
+- 💬 Ask me about JavaScript, Python, or web development.  
+- 📫 How to reach me: Just connect here on GitHub!  
+
+---
+
+## 🛠️ Technologies & Tools
+
+Here are some tools I work with:
+
+```plaintext
+HTML5 • CSS3 • JavaScript • TypeScript  
+React • Next.js • SWR •  Git • GitHub
+VS Code • Node.js • npm
